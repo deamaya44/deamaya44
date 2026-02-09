@@ -2,8 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm David E. Amaya</h1>
 <h3 align="center">Cloud Infrastructure Engineer | DevOps Specialist from Colombia</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5kNWEyM3F1ZG5icmpscmFjcG9oeno0dXBmMmRuODE2eGcxb2s4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deamaya44&label=Profile%20views&color=0e75b6&style=flat" alt="deamaya44" /> </p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=deamaya44&label=Profile%20views&color=0e75b6&style=flat" alt="deamaya44" /> 
+</p>
+
+<br>
 
 - 🔭 I'm currently working on **[AWS Terraform Modules](https://github.com/deamaya44/aws_modules)** - Building reusable infrastructure components
 
@@ -17,15 +23,17 @@
 
 - 📫 How to reach me **amayadavid44@gmail.com**
 
+<br clear="both">
 
-
-
-
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davidestebanamayaortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidestebanamayaortiz" height="30" width="40" /></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="text-decoration: none;"> 
@@ -98,6 +106,12 @@
     <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> 
     </a> 
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> 
+    </a> 
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> 
+    </a> 
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
     </a> 
@@ -106,11 +120,14 @@
     </a> 
 </p>
 
+<br>
+<br>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deamaya44&&theme=tokyonight" alt="deamaya44" style="width: 50%; height: auto;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=deamaya44&show_icons=true&locale=en&theme=tokyonight" alt="deamaya44" style="width: 45%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deamaya44&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deamaya44" style="width: 45%; height: auto;">
-  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deamaya44&&theme=tokyonight" alt="deamaya44" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deamaya44&show_icons=true&locale=en&theme=tokyonight" alt="deamaya44" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deamaya44&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deamaya44" width="48%">
 </p>
