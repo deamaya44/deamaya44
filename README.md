@@ -128,10 +128,10 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deamaya44&theme=tokyonight" alt="deamaya44" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deamaya44&theme=tokyonight" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deamaya44&show_icons=true&locale=en&theme=tokyonight" alt="deamaya44" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deamaya44&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deamaya44" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=deamaya44&show_icons=true&locale=en&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deamaya44&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="48%">
 </p>
